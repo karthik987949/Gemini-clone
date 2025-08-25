@@ -58,7 +58,8 @@ http://localhost:8501
 ---
 
 ## 🖼️ Screenshot
-(Add a screenshot of your app here)
+![Preview](preview.png)
+
 
 
 ---
